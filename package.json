@@ -1,25 +1,2 @@
-{
-  "name": "device-id",
-  "version": "0.0.1",
-  "description": "Get the current device ID (fingerprint)",
-  "main": "device-id.js",
-  "scripts": {
-    "test": "mocha test/**/*.spec.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/download/device-id.git"
-  },
-  "keywords": [
-    "fingerprint",
-    "device",
-    "id",
-    "unique"
-  ],
-  "author": "Stijn de Witt",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/download/device-id/issues"
-  },
-  "homepage": "https://github.com/download/device-id"
-}
+ 
+Note: Buka MT manager cari folder data cari lagi Folder data Trus caricom.mobile.legends Trus Cari shared_prefs Pencetcom.mobile.legends.v2.pl1df1b65985791ffd8690e26052dff1b0df7677aaa171798fa4e85935-93b4-45e0-9d32-
